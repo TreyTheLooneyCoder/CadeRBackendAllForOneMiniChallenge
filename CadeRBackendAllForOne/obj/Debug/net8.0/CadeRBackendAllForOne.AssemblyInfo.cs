@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CadeRBackendAllForOne")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72012d1416d14d202a91c70d9cb1ff8a159eb2ff")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad87843e362c69d7860ade987417d65f4dfdb6fa")]
 [assembly: System.Reflection.AssemblyProductAttribute("CadeRBackendAllForOne")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CadeRBackendAllForOne")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
